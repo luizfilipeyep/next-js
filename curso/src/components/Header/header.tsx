@@ -5,7 +5,7 @@ export function Header() {
     <header>
       <h1>HEADER DO PROJETO</h1>
       <Link href="/">HOME</Link>
-      <Link href="/contatos">CONTATOS</Link>
+      <Link href="/posts">POSTS</Link>
     </header>
   )
 }
